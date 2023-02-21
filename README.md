@@ -1,2 +1,2 @@
 # Fruit-shop
-To jest nowy sklep Fruit-shop
+This is new Fruit-shop
